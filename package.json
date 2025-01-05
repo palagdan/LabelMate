@@ -1,7 +1,7 @@
 {
-  "name": "gitmate",
+  "name": "LabelMate",
   "version": "1.0.0",
-  "description": "Conversational AI for GitHub Workflows This project integrates a conversational AI assistant to streamline software development workflows for the Knowledge-based and Software Systems Group (KBSS). The AI automates tasks like issue tracking, pull request management, and code reviews within the GitHub framework.",
+  "description": "LabelMate is an automated GitHub workflow powered by ChatGPT that intelligently assigns labels to issues based on the content of their title and description.",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
