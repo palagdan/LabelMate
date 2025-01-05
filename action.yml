@@ -1,5 +1,8 @@
 name: 'LabelMate'
 description: 'LabelMate is your buddy for managing labels in the development world.'
+branding:
+  icon: 'award'
+  color: 'green'
 inputs:
   openai-api-key:
     description: 'OpenAI API Key'
