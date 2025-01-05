@@ -1,6 +1,5 @@
-name: 'GitMate'
-description: 'GitMate is your buddy in a development world'
-
+name: 'LabelMate'
+description: 'LabelMate is your buddy for managing labels in the development world.'
 inputs:
   openai-api-key:
     description: 'OpenAI API Key'
